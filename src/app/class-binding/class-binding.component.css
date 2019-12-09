@@ -1,0 +1,20 @@
+.text-uppercase
+{
+    text-transform: uppercase;
+}
+.text-family
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+.text-danger
+{
+    color: darkred;
+}
+.div-error
+{
+    padding: 10px;
+    border: 1px solid red;
+    width: 300px;
+    background: palevioletred;margin: auto;
+}
